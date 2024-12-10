@@ -24,7 +24,7 @@ A responsive music player web application built using React and Bootstrap. This 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-player.git
+   git clone https://github.com/sanchitwiz/music-player.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -60,11 +60,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
